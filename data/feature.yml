@@ -4,31 +4,16 @@ subtitle: >
   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed, <br> quasi dolores numquam dolor vero ex, tempora commodi      repellendus quod laborum.
 item    :
   - icon  : ion-ios-flask-outline
-    title : Media heading
+    title : Empowerment
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      whatever product we build for you we would rather build with you. At the end of the day it’s your product, we hope over the course of it’s development you will feel empowered to maintain and extend our work yourselves.
 
   - icon  : ion-ios-lightbulb-outline
-    title : Well documented.
+    title : Iterative development 
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      Instead of creating a piece of work that only works when all the pieces are connected we start small, and build up to something great.
 
   - icon  : ion-ios-americanfootball-outline
-    title : Free updates
+    title : Value first 
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
-
-  - icon  : ion-ios-keypad-outline
-    title : Solid Support
-    description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
-
-  - icon  : ion-ios-barcode-outline
-    title : Simple Installation
-    description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
-  
-  - icon  : ion-ios-lightbulb-outline
-    title : Well documented.
-    description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      We don’t build things that don’t have value, and we deliver value as early in the process as possible so we can choose the right next steps towards actionable data science.
