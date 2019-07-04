@@ -1,0 +1,3 @@
+[submodule "PDFTA/themes/timer-hugo"]
+	path = PDFTA/themes/timer-hugo
+	url = https://github.com/themefisher/timer-hugo
