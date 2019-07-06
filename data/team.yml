@@ -2,15 +2,15 @@ enable  : true
 title   : MEET THE TEAM
 members  :
   - name  : John Carney
-    image : images/team/team-1.jpg
-    designation : CEO, Data Scientist
+    image : images/team/John.jpeg
+    designation : Director, Data Scientist
     description : John Carney has a history in Data, from a PhD in Biology through to Head Of Data Science at a large company John has seen it all.
-    twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/themefisher
+    twitter     : https://twitter.com/jaspajjr
+    linkedIn    : https://www.linkedin.com/in/john-carney-706b7062/
   
   - name  : Joseph Allen
-    image : images/team/team-2.jpg
+    image : images/team/Joe.jpeg
     designation : Project Manager, Data Scientist, Front-End Developer
     description : With a degree in Computer Science and Mathematics and a broad skillset Joseph is a jack of all trades. Communication and Visualization of success is more important than any Machine Learning.
-    twitter     : https://www.twitter.com/themefisher
-    linkedIn    : https://www.linkedin.com/themefisher
+    twitter     : https://www.twitter.com/josephallen1234
+    linkedIn    : https://www.linkedin.com/in/josephrossallen/

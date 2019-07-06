@@ -6,12 +6,12 @@ item    :
     description : >
       whatever product we build for you we would rather build with you. At the end of the day it’s your product, we hope over the course of it’s development you will feel empowered to maintain and extend our work yourselves.
 
-  - icon  : ion-ios-lightbulb-outline
+  - icon  : ion-ios-loop
     title : Iterative development 
     description : >
       Instead of creating a piece of work that only works when all the pieces are connected we start small, and build up to something great.
 
-  - icon  : ion-ios-americanfootball-outline
+  - icon  : ion-ios-speedometer-outline
     title : Value first 
     description : >
       We don’t build things that don’t have value, and we deliver value as early in the process as possible so we can choose the right next steps towards actionable data science.
