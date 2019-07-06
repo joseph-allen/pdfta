@@ -1,20 +1,19 @@
 enable  : true
 title   : Why We are Different
 description: >
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequun. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  <br>
-  <br>
-  Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae.
+  A lot of projects go through months of planning before implementation, these hoops slow down the value added from many Machine Learning products. PDFTA doesn't believe in throwing a project "over the wall" to your developers, we work with you to deliver something you can proudly maintain long after we are gone.
+  <br> <br>
+  We believe in value-first delivery. The sooner we are using real data the better. We work in iterative development cycles with transparent workflow so you have confidence in our delivery.
 image   : images/about/about-company.jpg
 aboutItem:
   - title : Why Choose Us
     description: > 
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.
+      We are good at working together and hit the ground running. Our Manchester network means that if we can't help you, we know somebody who can.
 
   - title : What You Get
     description: > 
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.
+      You can expect clear, transparent delivery of your project with a focus on delivering value as soon as feasible.
 
-  - title : Meet The Energy
-    description: > 
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.
+  # - title : Meet The Energy
+  #   description: > 
+  #     Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.

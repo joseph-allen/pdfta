@@ -1,6 +1,6 @@
 enable  : true
-title   : OUR HAPPY CLINETS
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore, error.
+title   : OUR HAPPY CLIENTs
+# subtitle: 
 clientsLogo:
   - image : images/clients/logo-1.jpg
   - image : images/clients/logo-2.jpg

@@ -4,21 +4,21 @@ subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis
 image   : images/team.jpg
 serviceItem :
   - icon  : ion-ios-paper-outline
-    title : BRANDING
+    title : FEATURE STORE
     description: >
-      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
+      So many of our clients desired a feature store, but lacked the knowledge or time to implement their own. We work with you to discover if you truly need a feature store, and if you do we deploy one.
 
   - icon  : ion-ios-pint-outline
-    title : DESIGN
+    title : DATA MATCHING
     description: >
-      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
+      Match up multiple databases of poor quality data with our fuzzy matching product.
 
   - icon  : ion-ios-paper-outline
-    title : DEVELOPMENT
+    title : PROJECT MANAGEMENT
     description: >
-      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
+      We manage our projects transparently using the AGILE methodology. Always know what is top priority.
 
   - icon  : ion-ios-paper-outline
-    title : THEMEING
+    title : DASHBOARDING
     description: >
-      Veritatis eligendi, dignissimos. Porta fermentum mus aute pulvinar earum minus platea massa feugiat rutrum urna facilisi ipsameum
+      We link data sources to simple dashboarding tools so you can take actions off your insights.
