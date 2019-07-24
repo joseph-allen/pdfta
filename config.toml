@@ -1,6 +1,6 @@
 baseURL = "https://pdfta2.netlify.com/"
 languageCode = "en-us"
-title = "Timer | Responsive Multipurpose Bootstrap Hugo Template"
+title = "PDFTA | Data Consulting"
 theme = "timer-hugo"
 
 # We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
@@ -9,19 +9,19 @@ theme = "timer-hugo"
 [menu]
     # Navbar Menus
     [[menu.nav]]
-        name    = "About"
+        name    = "PDFTA | About"
         url     = "about"
         weight  = 2
     [[menu.nav]]
-        name    = "Service"
+        name    = "PDFTA | Service"
         url     = "service"
         weight  = 3
     [[menu.nav]]
-        name    = "Blog"
+        name    = "PDFTA | Blog"
         url     = "blog"
         weight  = 5
     [[menu.nav]]
-        name    = "Contact"
+        name    = "PDFTA | Contact"
         url     = "contact"
         weight  = 6
 
@@ -31,7 +31,7 @@ theme = "timer-hugo"
     logo = "images/logo.png"
     dateFormat = "6 January 2006"
     # Meta data
-    description = "Airspace Hugo theme"
+    description = "PDFTA Data Consulting"
     author = "Themefisher"
     # Google Analitycs
     googleAnalitycsID = "Your ID"
