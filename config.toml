@@ -56,7 +56,7 @@ theme = "timer-hugo"
     # Call to Action
     [params.cta]
         enable  = true
-        title   = "Get in touch"
+        title   = "info@pdfta.com"
         content = "We are always happy to have a chat over coffee."
         btnText = "Contact Us"
         btnURL  = "/contact"
