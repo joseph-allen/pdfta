@@ -1,4 +1,4 @@
-baseURL = "https://pdfta.com/"
+baseURL = "https://www.pdfta.com/"
 languageCode = "en-us"
 title = "PDFTA | Data Consulting"
 theme = "timer-hugo"
