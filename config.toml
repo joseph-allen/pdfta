@@ -9,21 +9,9 @@ theme = "timer-hugo"
 [menu]
     # Navbar Menus
     [[menu.nav]]
-        name    = "PDFTA | About"
-        url     = "about"
-        weight  = 2
-    [[menu.nav]]
-        name    = "PDFTA | Service"
-        url     = "service"
-        weight  = 3
-    [[menu.nav]]
         name    = "PDFTA | Blog"
         url     = "blog"
         weight  = 5
-    [[menu.nav]]
-        name    = "PDFTA | Contact"
-        url     = "contact"
-        weight  = 6
 
 # Site Params
 [params]
