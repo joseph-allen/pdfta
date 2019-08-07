@@ -1,4 +1,4 @@
-baseURL = "https://pdfta2.netlify.com/"
+baseURL = "https://pdfta.com/"
 languageCode = "en-us"
 title = "PDFTA | Data Consulting"
 theme = "timer-hugo"
