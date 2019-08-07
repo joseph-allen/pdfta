@@ -64,7 +64,6 @@ theme = "timer-hugo"
     # Portfolio Section On Homepage
     [params.portfolio]
         enable  = true
-        title   = "Case Studies"
-        subtitle= "Explore some of our previous projects."
+        title   = "Our Work"
 
     
