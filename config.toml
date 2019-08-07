@@ -28,23 +28,8 @@ theme = "timer-hugo"
     [params.banner]
         enable  = true
         bgImage = "images/slider.jpg"
-        heading = "HERE AT PDFTA WE SPECIALISE IN"
-        description = "WITH YEARS EXPERIENCE IN DATA PRODUCTS, WITH A FOCUS ON DELIVERING VALUE AND DEPLOYING TO PRODUCTION WE USE ALL SORTS OF SKILLS"
-        btn     = false
-        btnText = "Download More"
-        btnURL  = "https://themefisher.com/"
-        [[params.banner.flipText]]
-            title   = "DATA SCIENCE"
-        [[params.banner.flipText]]
-            title   = "DATA ANALYSIS"
-        [[params.banner.flipText]]
-            title   = "DASHBOARDING"
-        [[params.banner.flipText]]
-            title   = "DATA ENGINEERING"
-        [[params.banner.flipText]]
-            title   = "MACHINE LEARNING IN PRODUCTION"
-        [[params.banner.flipText]]
-            title   = "END-TO-END DATA PRODUCTS"
+        heading = "EMPOWER YOUR BUSINESS THROUGH DATA."
+        description = "MAKE YOUR DATA DO MORE FOR YOU."
 
     # Homepage About Section
     [params.about]
