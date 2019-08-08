@@ -22,7 +22,7 @@ theme = "timer-hugo"
     description = "PDFTA Data Consulting"
     author = "Themefisher"
     # Google Analitycs
-    googleAnalitycsID = "Your ID"
+    googleAnalitycsID = "UA-61705551-2"
 
     # Banner Section
     [params.banner]
