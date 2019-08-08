@@ -4,7 +4,7 @@ type: portfolio
 date: 2019-04-12T16:54:54+06:00
 description : "Hotel Ranking Algorithm at LateRooms"
 caption: Hotel Ranking Algorithm
-image: images/portfolio/RD.png
+image: images/portfolio/LateRooms_pdfta.png
 category: ["panel","data science"]
 liveLink: https://twitter.com/humanplusdesign/status/1136719627285913600
 client: LateRooms

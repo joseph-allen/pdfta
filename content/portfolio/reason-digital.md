@@ -4,7 +4,7 @@ type: portfolio
 date: 2019-04-12T16:54:54+06:00
 description : "PDFTA Panel at Reason Digital"
 caption: Panel Night
-image: images/portfolio/RD.png
+image: images/portfolio/Reason_Digital_Data_Panel_pdfta.png
 category: ["panel","data science"]
 liveLink: https://twitter.com/humanplusdesign/status/1136719627285913600
 client: Reason Digital
