@@ -29,7 +29,7 @@ theme = "timer-hugo"
         enable  = true
         bgImage = "images/slider.jpg"
         heading = "EMPOWER YOUR BUSINESS THROUGH DATA"
-        description = "AI TO MAXIMISE YOUR VALUE FROM DATA"
+        description = "MAXIMISE VALUE FROM YOUR DATA"
 
     # Homepage About Section
     [params.about]
