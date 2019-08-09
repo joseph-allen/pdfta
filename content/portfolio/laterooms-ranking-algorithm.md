@@ -12,7 +12,7 @@ submitDate: April 04, 2019
 location: Northern Quarter
 ---
 ### Hotel Ranking Algorithm at LateRooms
-LateRooms, an online travel agency has an emphasis on short lead-in time to customers. LateRooms strives to understand customer needs. The Search team enhances the technology and user experience of searching for a hotel. LateRooms search features auto-complete, search-indexing and a naive ranking algorithm. This wasn't enough for LateRooms. the leadership team was eager to improve the search experience, conversion and quality.
+[LateRooms](https://www.laterooms.com), an online travel agency has an emphasis on short lead-in time to customers. LateRooms strives to understand customer needs. The Search team enhances the technology and user experience of searching for a hotel. LateRooms search features auto-complete, search-indexing and a naive ranking algorithm. This wasn't enough for LateRooms. the leadership team was eager to improve the search experience, conversion and quality.
 
 LateRooms decided to explore what Data Science could deliver. It was time for a more personalised search experience, and better ranking functionality. As with all data science, business transformation was as important as Machine Learning. We communicated with their internal infrastructure & operations team to develop DataOps processes. The new Hotel Ranking Algorithm has survived our absence due to its maintainability.
 
